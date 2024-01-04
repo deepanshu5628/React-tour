@@ -1,0 +1,38 @@
+.Card {
+    border: 2px solid pink;
+    width: 250px;
+    height: 450px;
+    margin: 5px;
+}
+
+.image {
+    padding-top: 6px;
+    height: 50%;
+    width: 95%;
+}
+
+.price {
+    color: green;
+    margin: 0;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.name {
+    text-align: left;
+    margin: 0;
+    margin-left: 10px;
+}
+
+.description {
+    text-align: left;
+    margin: 0;
+    margin-left: 10px;
+    font-size: .86rem;
+    padding-bottom: 4px;
+}
+
+.btn {
+    color: black;
+    background-color: pink;
+}

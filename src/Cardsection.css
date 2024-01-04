@@ -1,0 +1,7 @@
+.Cardsection {
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 5px solid white; */
+    justify-content: space-evenly;
+    padding: 5px;
+}
